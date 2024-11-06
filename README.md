@@ -13,7 +13,7 @@ This VCard PHP library can generate a vCard with some data. When using an iOS de
 ### Installation
 
 ```bash
-composer require jeroendesloovere/vcard
+composer require rfc-6350/vcard
 ```
 > This will install the latest version of vcard with [Composer](https://getcomposer.org)
 
@@ -127,10 +127,7 @@ Contributions are **welcome** and will be fully **credited**.
 
 More info on how to work with GitHub on help.github.com.
 
-## Credits
 
-- [Jeroen Desloovere](https://github.com/jeroendesloovere)
-- [All Contributors](https://github.com/jeroendesloovere/vcard/contributors)
 
 ## License
 
